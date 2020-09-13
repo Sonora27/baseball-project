@@ -7,7 +7,7 @@ Sources: PyBaseball, Baseball-Reference, FanGraphs
 
 ## Project Introduction
 
-This project analyzes strikeout numbers for a starting pitcher in a season. For this analysis, we used a dataset of pitching statistics ranging from 2014 to 2019 on a season by season basis. Through exploratory data analysis and building an accurate intrepretable linear regression model, the goal of this project is to gain insights into what statistics are most important in determining a starting pitcher's season strikeout numbers. As a result of our analysis and modeling, we are confident that we can provide a baseball general manager with a novel framework to captalize on market inefficiencies in free agency. 
+This project analyzes strikeout numbers for a starting pitcher in a season. For this analysis, we used a dataset of pitching statistics ranging from 2014 to 2019 on a season by season basis. Through exploratory data analysis and building an accurate intrepretable linear regression model, the goal of this project is to gain insights into what statistics are most important in determining a starting pitcher's season strikeout numbers. As a result of our analysis and modeling, we are confident that we can provide a baseball general manager with a novel framework to capitalize on market inefficiencies in free agency. 
 
 ## Repository Structure
 
