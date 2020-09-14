@@ -13,6 +13,7 @@ This project analyzes strikeout numbers for a starting pitcher in a season. For 
 
 * pngs -- contains visualizations that highlight key features  in our analysis
 * jupyter_notebooks -- contains the chronological breakdown of all the code used in our exploratory data analysis, statistical testing, model building, and post-model analysis.
+* presentatiion pdf -- contains pdf version of project presentation
 * README.md
 
 ## Data 
