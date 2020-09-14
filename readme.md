@@ -12,9 +12,9 @@ This project analyzes strikeout numbers for a starting pitcher in a season. For 
 ## Repository Structure
 
 * pngs -- contains visualizations that highlight key features  in our analysis
-* jupyter_notebooks -- contains the chronological breakdown of all the code used in our exploratory data analysis, statistical testing, model building, and post-model analysis.
-* presentatiion pdf -- contains pdf version of project presentation
+* jupyter_notebooks -- contains the chronological breakdown of all the code used in our exploratory data analysis, statistical testing, model building, and post-model analysis. The order of the notebooks is 'Baseball_Refernce_Data_Collection','fangraphsdf_mergingwithbriefdf','Mlb_Data_Cleaning_Stats_Analysis','Baseball_Eda_feature_elimination_stats','Modeling','Model_Predictions_Analysis', and then 'Post_Modeling_Analysis'.
 * README.md
+* presentatiion pdf -- contains pdf version of project presentation 
 
 ## Data 
 
