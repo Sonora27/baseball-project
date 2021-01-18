@@ -1,6 +1,6 @@
 # Insights into Starting Pitchers' Season Strikeout Numbers
 
-Michael Scognamiglio & Joee Ramirez
+Michael Scognamiglio & Joe Ramirez
 
 Sources: PyBaseball, Baseball-Reference, FanGraphs
 
