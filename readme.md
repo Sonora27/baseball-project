@@ -1,6 +1,6 @@
 # Insights into Starting Pitchers' Season Strikeout Numbers
 
-Michael Scognamiglio & Jose Ramirez
+Michael Scognamiglio & Joee Ramirez
 
 Sources: PyBaseball, Baseball-Reference, FanGraphs
 
@@ -45,7 +45,7 @@ In an effort to engineer features for our model, we wanted to test a few hypothe
 
 * Does a starting pitcher's ability to induce swings on pitches from outside the strikezone significantly impact their strikeout numbers in a season?
 
-	* With a test statistic of 8.30 and a p-value of approximately 0, we received a strongly singificant result that starting pitchers who get batters to swing outside of the strikezone at a high rate post higher season strikeout numbers.
+	* With a test statistic of 8.30 and a p-value of approximately 0, we received a strongly significant result that starting pitchers who get batters to swing outside of the strikezone at a high rate post higher season strikeout numbers.
 
 ## Modeling 
 
@@ -57,7 +57,7 @@ We sought to create a model to provide a baseball team's general manager with no
 
 * In order to resolve the high dimensionality of our initial model, we decided to use the Recursive Feature Elimination algorithm. This enabled us to downsize our feature list to 34. Using this algorithm, we obtained a testing RMSE of 8.78 and a testing R squared of .969. 
 
-	* Even though these results were very slightly worse than simple mode, we preferred this model due to the fact that high dimensionality was no longer an issue for us.
+	* Even though these results were very slightly worse than our simple model, we preferred this model due to the fact that high dimensionality was no longer an issue for us.
 
 * Another feature elimination method that we tried is Select K-best features.
 
@@ -83,7 +83,7 @@ We sought to create a model to provide a baseball team's general manager with no
 
 	* As can be seen in the figure above, a homer-prone starting pitcher with elite fastball velocity will still post significantly higher strikeout numbers in a season than a homer-prone starting pitcher who does not have elite fastball velocity.
 
-* Based on our model's coefficents, we would also recommend that a GM prioritizes a pitcher's pitch efficiency over any other statistic. In our model, we found that the amount of balls a pitcher throws is mostly strongly correlated (in the negative direction) out of all our coefficients. Thus, we encourage GM's to look closely at starting pitchers who have most effectively minimized the amounts of balls thrown in a season. This allows for starting pitchers to provide more length in their starts as well as increase their strikeout numbers.
+* Based on our model's coefficents, we would also recommend that a GM prioritizes a pitcher's pitch efficiency over any other statistic. In our model, we found that the amount of balls a pitcher throws is most strongly correlated (in the negative direction) out of all our coefficients. Thus, we encourage GM's to look closely at starting pitchers who have most effectively minimized the amounts of balls thrown in a season. This allows for starting pitchers to provide more length in their starts as well as increase their strikeout numbers.
 	<img src="https://raw.githubusercontent.com/Sonora27/baseball-project/master/pngs/Impact%20of%20Pitch%20efficency%20on%20SO%20for%20Starting%20Pitchers.png">
 
 ## Further Analysis
