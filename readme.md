@@ -17,7 +17,11 @@ This project analyzes strikeout numbers for a starting pitcher in a season. For 
 	* Baseball_Refernce_Data_Collection
 	* fangraphsdf_merging_with_briefdf
 	* stat_tests
-	*	Mlb_Data_Cleaning_Stats_Analysis 			* Baseball_EDA_feature_elimination_stats,'Modeling','Model_Predictions_Analysis', and then 'Post_Modeling_Analysis'.
+	* Mlb_Data_Cleaning_Stats_Analysis 		
+	*  Baseball_EDA_feature_elimination_stats 
+	* Modeling
+	* Model_Predictions_Analysis 				
+	* Post_Modeling_Analysis
 * README.md
 * presentation pdf -- contains pdf version of project presentation 
 
