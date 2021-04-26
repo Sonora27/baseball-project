@@ -15,7 +15,7 @@ This project analyzes strikeout numbers for a starting pitcher in a season. For 
 * jupyter_notebooks -- contains the chronological breakdown of all the code used in our exploratory data analysis, statistical testing, model building, and post-model analysis. The order of the notebooks is as follows:
 
 	* Baseball_Refernce_Data_Collection
-	* fangraphsdf_merging_with_briefdf
+	* fangraphsdf_merging_with_brefdf
 	* stat_tests
 	* Mlb_Data_Cleaning_Stats_Analysis 		
 	*  Baseball_EDA_feature_elimination_stats 
