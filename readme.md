@@ -65,7 +65,7 @@ We sought to create a model to provide a baseball team's general manager with no
 
 * In an effort to use a different model type, we also tried the Ridge model.
 
-	* Our results from using this model type was an RMSE of 8.78 and an R sqaured of .972. This model performed simiarly to our initial two models. As a result, we finally decided on the model that used the Recursive Feature Elimination because it gave us the best balance of model performance and interpretability.
+	* Our results from using this model type was an RMSE of 8.78 and an R squared of .972. This model performed simiarly to our initial two models. As a result, we finally decided on the model that used the Recursive Feature Elimination because it gave us the best balance of model performance and interpretability.
 
 	<img src="https://raw.githubusercontent.com/Sonora27/baseball-project/master/pngs/Distrubution%20of%202019%20SP%20Strikeout%20Predictions.png">
 
